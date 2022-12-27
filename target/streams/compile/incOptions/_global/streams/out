@@ -1,0 +1,32 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\mamal\Desktop\PTR_Lab\message_broker\target\scala-2.13\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EchoActor$Sub.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EchoActor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EchoActor$Sub$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EchoActor$Send.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EchoActor$Send$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EchoActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EchoActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EchoActor$Sub.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EchoActor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EchoActor$Sub$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EchoActor$Send.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EchoActor$Send$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EchoActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EchoActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestActor$Send$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestActor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestActor$Send.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestActor$Sub.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestActor$Sub$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\mamal\Desktop\PTR_Lab\message_broker\target\scala-2.13\classes.bak[0m
